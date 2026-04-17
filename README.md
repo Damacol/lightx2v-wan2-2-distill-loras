@@ -1,4 +1,4 @@
-# lightx2v/Wan2.2-Distill-Loras - Private, Uncensored AI for Real Creators and Devs
+# lightx2v/Wan2.2-Distill-Loras  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
